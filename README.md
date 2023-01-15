@@ -1,16 +1,14 @@
 # Icons
 
-Dozens of cute icons made with love by [ikx7a]() for your projects.
+Dozens Of Cute Icons Made With Love By [ikx7a](https://github.com/ikx7a) For Your Projects.
 
-No dependencies required. Free to use and share.
+No Dependencies Required. Free To Use And Share.
 
-<img width="1657" alt="image" src="https://user-images.githubusercontent.com/3684889/210104174-93ee88d6-a2ba-44a8-ac22-ee04955c771b.png">
+[<img width="1657" alt="image" src="https://user-images.githubusercontent.com/3684889/210104174-93ee88d6-a2ba-44a8-ac22-ee04955c771b.png">](https://github.com/ikx7a)
 
 
 ## List of icons
 
-<!-- DO NOT EDIT THE FOLLOWING SECTION MANUALLY -->
-<!-- BEGIN TABLE_OF_ICONS -->
 | Icon | Name |
 | --- | --- |
 | ![IconH1](dist/icons/IconH1.svg) | `IconH1` |
@@ -88,8 +86,7 @@ No dependencies required. Free to use and share.
 | ![IconUnlink](dist/icons/IconUnlink.svg) | `IconUnlink` |
 | ![IconUser](dist/icons/IconUser.svg) | `IconUser` |
 | ![IconUsersGroup](dist/icons/IconUsersGroup.svg) | `IconUsersGroup` |
-| ![IconWarning](dist/icons/IconWarning.svg) | `IconWarning` |
-<!-- END TABLE_OF_ICONS -->
+| ![IconWarning](dist/icons/IconWarning.svg) | `IconWarning` 
 
 ## How to add an icon
 
