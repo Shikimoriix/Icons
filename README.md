@@ -1,6 +1,6 @@
 # Icons
 
-Dozens Of Cute Icons Made With Love By [ikx7a](https://github.com/ikx7a) For Your Projects.
+Dozens Of Cute Icons Made With Love By [Sʜᴀᴅᴏᴡ 这](https://github.com/ikx7a) For Your Projects.
 
 No Dependencies Required. Free To Use And Share.
 
